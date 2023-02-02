@@ -6,7 +6,7 @@ var imgWidth = 120; // width of images (unit: px)
 var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
-var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
+var bgMusicURL = 'https://firebasestorage.googleapis.com/v0/b/bl-music-705b6.appspot.com/o/8a.mp3?alt=media&token=6edf496a-d760-4951-bf5e-0dae73742c46';
 var bgMusicControls = true; // Show UI music control
 
 
